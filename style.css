@@ -81,9 +81,9 @@ body{
  font-size: 28px; 
  margin-top: -6px;  
 }
-/* .weather{
+ .weather{
     display: none;
-} */
+} 
  .message{
     margin-top: 7px;
     margin-right: 250px;
@@ -91,6 +91,4 @@ body{
     font-weight: 500;
  }
 
- @media (max-width) {
-    
- }
+ 
